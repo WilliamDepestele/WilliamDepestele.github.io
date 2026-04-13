@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Dupont;William;;;
+FN:William Dupont
+ORG:Ma Société
+TITLE:Ingénieur
+TEL;TYPE=CELL:+33612345678
+EMAIL:william@exemple.fr
+URL:https://tonpseudo.github.io
+END:VCARD
