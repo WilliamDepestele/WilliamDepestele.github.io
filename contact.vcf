@@ -6,5 +6,6 @@ ORG:BRICQ
 TITLE:Plant Manager
 TEL;TYPE=CELL:+33643020760
 EMAIL:william.depestele@bricq.fr
+ADR;TYPE=WORK:;;D62 Route d'Orgedeuil;Montbron;;16220;France
 URL:https://bricq.fr/
 END:VCARD
